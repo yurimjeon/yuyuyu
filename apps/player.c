@@ -5,5 +5,6 @@ int main(void)
 {
 	foo1();
 	foo2();
+	printf("hello\n");
 }
 
