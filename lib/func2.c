@@ -2,5 +2,6 @@
 
 foo2()
 {
-	printf("this is lib too!!!!!!\n");
+	printf("this is lib !!!!\n");
+
 }
